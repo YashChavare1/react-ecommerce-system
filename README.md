@@ -6,7 +6,7 @@ This project focuses on building a modular, maintainable, and extensible fronten
 ---
 
 ## 🌐 Live Demo
-[Add deployed link here]
+https://react-ecommerce-system.vercel.app
 
 ---
 
